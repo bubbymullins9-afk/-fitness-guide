@@ -1,1 +1,135 @@
-    index.ht
+    <!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>My Website</title>
+
+  <style>
+
+    body {
+
+      margin: 0;
+
+      font-family: Arial, sans-serif;
+
+      background: #0f172a;
+
+      color: white;
+
+      text-align: center;
+
+    }
+
+    header {
+
+      padding: 60px 20px;
+
+      background: #1e293b;
+
+    }
+
+    h1 {
+
+      margin: 0;
+
+      font-size: 40px;
+
+    }
+
+    p {
+
+      font-size: 18px;
+
+      color: #cbd5e1;
+
+    }
+
+    .btn {
+
+      display: inline-block;
+
+      margin-top: 20px;
+
+      padding: 12px 20px;
+
+      background: #38bdf8;
+
+      color: black;
+
+      text-decoration: none;
+
+      border-radius: 8px;
+
+      font-weight: bold;
+
+    }
+
+    section {
+
+      padding: 40px 20px;
+
+    }
+
+    footer {
+
+      padding: 20px;
+
+      font-size: 14px;
+
+      color: #94a3b8;
+
+    }
+
+  </style>
+
+</head>
+
+<body>
+
+  <header>
+
+    <h1>Welcome to My Website</h1>
+
+    <p>This is my GitHub Pages site 🚀</p>
+
+    <a class="btn" href="#about">Learn More</a>
+
+  </header>
+
+  <section id="about">
+
+    <h2>About Me</h2>
+
+    <p>
+
+      Write something about yourself here. You can talk about your hobbies,
+
+      projects, or anything you like.
+
+    </p>
+
+  </section>
+
+  <section>
+
+    <h2>My Projects</h2>
+
+    <p>Add your GitHub projects here later.</p>
+
+  </section>
+
+  <footer>
+
+    © 2026 My Website
+
+  </footer>
+
+</body>
+
+</html>
